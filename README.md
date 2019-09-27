@@ -62,7 +62,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + An Advancing CTC-Attention Model for Scene Text Recognition.
 <table class="imgtable"><tbody><tr><td>
-<img src="STR.JPG" alt="ACMMM’19" width="280px" height="125px">&nbsp;</td>
+<img src="STR.JPG" alt="ACMMM’19" width="280px" height="115px">&nbsp;</td>
 <td align="left"><ul>
 <br>Jiaxin Fan, Xianglong Liu, Yanlu Wei and <b> Aishan Liu </b>. 
 <br>Under review.
@@ -82,7 +82,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + Perceptual Sensitive GAN for Generating Adversarial Patches.
 <table class="imgtable"><tbody><tr><td>
-<img src="aaai19.JPG" alt="AAAI’19" width="280px" height="125px">&nbsp;</td>
+<img src="aaai19.JPG" alt="AAAI’19" width="280px" height="135px">&nbsp;</td>
 <td align="left"><ul>
 <br><b>Aishan Liu</b>, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
 <br><a href="https://aaai.org/Conferences/AAAI-19/"><i>AAAI Conference on Artificial Intelligence (AAAI’19)</i></a>, Honolulu, Hawaii, USA, 2019.
