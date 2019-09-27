@@ -32,7 +32,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ### Conference Papers
 + Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.
 <table class="imgtable"><tbody><tr><td>
-<img src="SNS.png" alt="AAAI’20" width="300px" height="145px"></td>
+<img src="SNS.png" alt="AAAI’20" width="280px" height="125px"></td>
 <td align="left"><ul>
 <br>Chongzhi Zhang*, <b>Aishan Liu*</b>, Xianglong Liu and Yitao Xu. (* means equal contribution)
 <br>Under review.
@@ -42,7 +42,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + Towards Noise-Robust Neural Networks via Progressive Adversarial Training.
 <table class="imgtable"><tbody><tr><td>
-<img src="PDA.JPG" alt="AAAI’20" width="300px" height="145px"></td>
+<img src="PDA.JPG" alt="AAAI’20" width="280px" height="125px"></td>
 <td align="left"><ul>
 <br>Hang Yu*, <b>Aishan Liu*</b>, Xianglong Liu and Jichen Yang. (* means equal contribution)
 <br>Under review.
@@ -52,7 +52,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.
 <table class="imgtable"><tbody><tr><td>
-<img src="ijcai19.JPG" alt="IJCAI’19" width="300px" height="145px"></td>
+<img src="ijcai19.JPG" alt="IJCAI’19" width="280px" height="125px"></td>
 <td align="left"><ul>
 <br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and <b> Aishan Liu </b>. 
 <br><a href="http://ijcai19.org/"><i>International Joint Conference on Artificial Intelligence (IJCAI’19)</i></a>, Macao, China, 2019.
@@ -62,7 +62,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + An Advancing CTC-Attention Model for Scene Text Recognition.
 <table class="imgtable"><tbody><tr><td>
-<img src="STR.JPG" alt="ACMMM’19" width="300px" height="145px">&nbsp;</td>
+<img src="STR.JPG" alt="ACMMM’19" width="280px" height="125px">&nbsp;</td>
 <td align="left"><ul>
 <br>Jiaxin Fan, Xianglong Liu, Yanlu Wei and <b> Aishan Liu </b>. 
 <br>Under review.
@@ -72,7 +72,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + Training Robust Deep Neural Networks via Adversarial Noise Propagation.
 <table class="imgtable"><tbody><tr><td>
-<img src="ANP.JPG" alt="AAAI’20" width="300px" height="145px">&nbsp;</td>
+<img src="ANP.JPG" alt="AAAI’20" width="280px" height="125px">&nbsp;</td>
 <td align="left"><ul>
 <br><b>Aishan Liu</b>, Xianglong Liu, Chongzhi Zhang, Hang Yu, Qiang Liu and Junfei He.
 <br>Under review.
@@ -82,7 +82,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + Perceptual Sensitive GAN for Generating Adversarial Patches.
 <table class="imgtable"><tbody><tr><td>
-<img src="aaai19.JPG" alt="AAAI’19" width="300px" height="145px">&nbsp;</td>
+<img src="aaai19.JPG" alt="AAAI’19" width="280px" height="125px">&nbsp;</td>
 <td align="left"><ul>
 <br><b>Aishan Liu</b>, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
 <br><a href="https://aaai.org/Conferences/AAAI-19/"><i>AAAI Conference on Artificial Intelligence (AAAI’19)</i></a>, Honolulu, Hawaii, USA, 2019.
@@ -132,5 +132,5 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 </ul>
 
 ## Main Co-authors
---------
-\[[Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)\]
+-----------
+[Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
