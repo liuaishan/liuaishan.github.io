@@ -130,7 +130,3 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 <li>B.Sc in Computer Science, School of Computer Science and Engineering, Beihang University</ul>
 </li>
 </ul>
-
-## Main CoAuthors
----------------
-[Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
