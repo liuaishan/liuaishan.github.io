@@ -1,7 +1,6 @@
 Aishan Liu (刘艾杉)
 ## Aishan Liu (刘艾杉)
-
-## About Me
+-----------
 ***3rd year Ph.D. Candidate***
 
 [State Key Laboratory of Software Development Environment](http://nlsde.buaa.edu.cn)
@@ -13,6 +12,10 @@ Email: liuaishan AT buaa DOT edu DOT cn or
         liuaishan AT nlsde DOT buaa DOT edu DOT cn
 
 Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
+
+## About Me
+---------------
+
 
 
 ### Markdown
