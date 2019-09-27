@@ -131,6 +131,6 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 </li>
 </ul>
 
-## Main Co-authors
------------
+## Main CoAuthors
+---------------
 [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
