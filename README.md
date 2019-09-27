@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/">
 
@@ -10,8 +9,7 @@
 <div id="toptitle">
 <h1>Aishan Liu （刘艾杉）</h1>
 </div>
-<table class="imgtable"><tbody><tr><td>
-<img src="./files/liuaishan.JPG" alt="liuaishan" width="148px" height="220px">&nbsp;</td>
+<table class="imgtable"><tbody><tr>
 <td align="left">
 <p style="font-family:italia;font-size:120%;color:#527bbd">Ph.D. Candidate</p><br>
 <p> <a href="http://www.nlsde.buaa.edu.cn/">State Key Laboratory of Software Development Environment</a><br>
