@@ -30,7 +30,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ---------------
 ### Conference Papers
 <table class="imgtable"><tbody><tr><td>
-<img src="./files/SNS.png" alt="AAAI’20" width="300px" height="165px">&nbsp;</td>
+<img src="./src/SNS.png" alt="AAAI’20" width="100px" height="65px">&nbsp;</td>
 <td align="left"><ul>
 <li><p>Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.
 <br>Chongzhi Zhang*, <b>Aishan Liu*</b>, Xianglong Liu and Yitao Xu. (* means equal contribution)
