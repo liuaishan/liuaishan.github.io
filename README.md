@@ -114,15 +114,15 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ---------------
 + Sep. 2017 - Present
     + Ph.D. student in Computer Science, School of Computer Science and Engineering, Beihang University
-    + Advisor: Profs. [Wei Li] <http://sites.nlsde.buaa.edu.cn/~liwei/) and co-advised by Profs. [Xianglong Liu] (http://sites.nlsde.buaa.edu.cn/~xlliu/)
+    + Advisor: Profs. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and co-advised by Profs. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
   
 + Sep. 2013 - Jan. 2016
     + Master student in Computer Science, School of Computer Science and Engineering, Beihang University
-    + Advisor: Profs. [Wei Li] (http://sites.nlsde.buaa.edu.cn/~liwei/)
+    + Advisor: Profs. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/)
   
 + Sep. 2009 - Jun. 2013
     + B.Sc in Computer Science, School of Computer Science and Engineering, Beihang University
   
-## Main CoAuthors
+## Main Co-authors
 ---------------
 + [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
