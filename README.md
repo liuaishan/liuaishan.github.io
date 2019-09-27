@@ -54,7 +54,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.
 <table class="imgtable"><tbody><tr><td>
-<img src="ijcai19.JPG" alt="IJCAI’19" width="280px" height="125px"></td>
+<img src="ijcai19.JPG" alt="IJCAI’19" width="300px" height="125px"></td>
 <td align="left"><ul>
 <br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and <b> Aishan Liu </b>. 
 <br><a href="http://ijcai19.org/"><i>International Joint Conference on Artificial Intelligence (IJCAI’19)</i></a>, Macao, China, 2019.
@@ -64,7 +64,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + An Advancing CTC-Attention Model for Scene Text Recognition.
 <table class="imgtable"><tbody><tr><td>
-<img src="STR.JPG" alt="ACMMM’19" width="260px" height="115px">&nbsp;</td>
+<img src="STR.JPG" alt="ACMMM’19" width="260px" height="125px">&nbsp;</td>
 <td align="left"><ul>
 <br>Jiaxin Fan, Xianglong Liu, Yanlu Wei and <b> Aishan Liu </b>. 
 <br>Under review.
