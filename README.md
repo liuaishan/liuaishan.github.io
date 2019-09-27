@@ -32,66 +32,61 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ### Conference Papers
 + Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.
 <table class="imgtable"><tbody><tr><td>
-<img src="SNS.png" alt="AAAI’20" width="200px" height="105px"></td>
+<img src="SNS.png" alt="AAAI’20" width="300px" height="145px"></td>
 <td align="left"><ul>
 <br>Chongzhi Zhang*, <b>Aishan Liu*</b>, Xianglong Liu and Yitao Xu. (* means equal contribution)
 <br>Under review.
-<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt></p>
+<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
 </ul>
 </td></tr></tbody></table>
 
++ Towards Noise-Robust Neural Networks via Progressive Adversarial Training.
 <table class="imgtable"><tbody><tr><td>
-<img src="PDA.JPG" alt="AAAI’20" width="300px" height="165px">&nbsp;</td>
+<img src="PDA.JPG" alt="AAAI’20" width="300px" height="145px"></td>
 <td align="left"><ul>
-<li><p>Towards Noise-Robust Neural Networks via Progressive Adversarial Training.
 <br>Hang Yu*, <b>Aishan Liu*</b>, Xianglong Liu and Jichen Yang. (* means equal contribution)
 <br>Under review.
-<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt></p>
-</li>
+<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
 </ul>
 </td></tr></tbody></table>
 
-
++ Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.
 <table class="imgtable"><tbody><tr><td>
-<img src="ijcai19.JPG" alt="IJCAI’19" width="300px" height="135px">&nbsp;</td>
+<img src="ijcai19.JPG" alt="IJCAI’19" width="300px" height="145px"></td>
 <td align="left"><ul>
-<li><p>Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.
 <br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and <b> Aishan Liu </b>. 
 <br><a href="http://ijcai19.org/"><i>International Joint Conference on Artificial Intelligence (IJCAI’19)</i></a>, Macao, China, 2019.
-<br><tt><a href="./files/papers/ijcai19.pdf">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt></p>
-</li>
+<br><tt><a href="./files/papers/ijcai19.pdf">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt><
 </ul>
 </td></tr></tbody></table>
 
++ An Advancing CTC-Attention Model for Scene Text Recognition.
 <table class="imgtable"><tbody><tr><td>
-<img src="STR.JPG" alt="ACMMM’19" width="300px" height="135px">&nbsp;</td>
+<img src="STR.JPG" alt="ACMMM’19" width="300px" height="145px">&nbsp;</td>
 <td align="left"><ul>
-<li><p>An Advancing CTC-Attention Model for Scene Text Recognition.
 <br>Jiaxin Fan, Xianglong Liu, Yanlu Wei and <b> Aishan Liu </b>. 
 <br>Under review.
-<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt></p>
-</li>
+<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
 </ul>
 </td></tr></tbody></table>
 
++ Training Robust Deep Neural Networks via Adversarial Noise Propagation.
 <table class="imgtable"><tbody><tr><td>
-<img src="ANP.JPG" alt="AAAI’20" width="300px" height="165px">&nbsp;</td>
+<img src="ANP.JPG" alt="AAAI’20" width="300px" height="145px">&nbsp;</td>
 <td align="left"><ul>
-<li><p>Training Robust Deep Neural Networks via Adversarial Noise Propagation.
 <br><b>Aishan Liu</b>, Xianglong Liu, Chongzhi Zhang, Hang Yu, Qiang Liu and Junfei He.
 <br>Under review.
-<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt></p>
-</li>
+<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
 </ul>
 </td></tr></tbody></table>
+
++ Perceptual Sensitive GAN for Generating Adversarial Patches.
 <table class="imgtable"><tbody><tr><td>
-<img src="aaai19.JPG" alt="AAAI’19" width="300px" height="135px">&nbsp;</td>
+<img src="aaai19.JPG" alt="AAAI’19" width="300px" height="145px">&nbsp;</td>
 <td align="left"><ul>
-<li><p>Perceptual Sensitive GAN for Generating Adversarial Patches.
 <br><b>Aishan Liu</b>, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
 <br><a href="https://aaai.org/Conferences/AAAI-19/"><i>AAAI Conference on Artificial Intelligence (AAAI’19)</i></a>, Honolulu, Hawaii, USA, 2019.
-<br><tt><a href="./files/papers/psgan_aaai2019.pdf">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="./files/papers/psgan_aaai2019.bib">[bibtex]</a></tt></p>
-</li>
+<br><tt><a href="./files/papers/psgan_aaai2019.pdf">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="./files/papers/psgan_aaai2019.bib">[bibtex]</a></tt>
 </ul>
 </td></tr></tbody></table>
 
@@ -122,19 +117,14 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 <ul>
 <li>Ph.D. student in Computer Science, School of Computer Science and Engineering, Beihang University</li>
 <li>Advisor: Profs. <a href="http://sites.nlsde.buaa.edu.cn/~liwei/">Wei Li</a> and co-advised by Profs. <a href="http://sites.nlsde.buaa.edu.cn/~xlliu/">Xianglong Liu</a> </li>
-
 </ul>
 </li>
-
-
 <li><p>Sep. 2013 - Jan. 2016</p>
 <ul>
 <li>Master student in Computer Science, School of Computer Science and Engineering, Beihang University</li>
 <li>Advisor: Profs. <a href="http://sites.nlsde.buaa.edu.cn/~liwei/">Wei Li</a> </li>
 </ul>
-
 </li>
-
 <li><p>Sep. 2009 - Jun. 2013</p>
 <ul>
 <li>B.Sc in Computer Science, School of Computer Science and Engineering, Beihang University</ul>
