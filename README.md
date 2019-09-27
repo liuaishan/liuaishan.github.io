@@ -34,7 +34,8 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 <table class="imgtable"><tbody><tr><td>
 <img src="SNS.png" alt="AAAI’20" width="280px" height="125px"></td>
 <td align="left"><ul>
-<br>Chongzhi Zhang*, <b>Aishan Liu*</b>, Xianglong Liu and Yitao Xu. (* means equal contribution)
+<br>Chongzhi Zhang*, <b>Aishan Liu*</b>, Xianglong Liu and Yitao Xu. 
+<br>(* means equal contribution)
 <br>Under review.
 <br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
 </ul>
@@ -44,7 +45,8 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 <table class="imgtable"><tbody><tr><td>
 <img src="PDA.JPG" alt="AAAI’20" width="280px" height="125px"></td>
 <td align="left"><ul>
-<br>Hang Yu*, <b>Aishan Liu*</b>, Xianglong Liu and Jichen Yang. (* means equal contribution)
+<br>Hang Yu*, <b>Aishan Liu*</b>, Xianglong Liu and Jichen Yang. 
+<br>(* means equal contribution)
 <br>Under review.
 <br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
 </ul>
@@ -56,13 +58,13 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 <td align="left"><ul>
 <br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and <b> Aishan Liu </b>. 
 <br><a href="http://ijcai19.org/"><i>International Joint Conference on Artificial Intelligence (IJCAI’19)</i></a>, Macao, China, 2019.
-<br><tt><a href="./files/papers/ijcai19.pdf">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt><
+<br><tt><a href="./files/papers/ijcai19.pdf">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
 </ul>
 </td></tr></tbody></table>
 
 + An Advancing CTC-Attention Model for Scene Text Recognition.
 <table class="imgtable"><tbody><tr><td>
-<img src="STR.JPG" alt="ACMMM’19" width="280px" height="115px">&nbsp;</td>
+<img src="STR.JPG" alt="ACMMM’19" width="260px" height="115px">&nbsp;</td>
 <td align="left"><ul>
 <br>Jiaxin Fan, Xianglong Liu, Yanlu Wei and <b> Aishan Liu </b>. 
 <br>Under review.
@@ -82,7 +84,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + Perceptual Sensitive GAN for Generating Adversarial Patches.
 <table class="imgtable"><tbody><tr><td>
-<img src="aaai19.JPG" alt="AAAI’19" width="280px" height="135px">&nbsp;</td>
+<img src="aaai19.JPG" alt="AAAI’19" width="300px" height="135px">&nbsp;</td>
 <td align="left"><ul>
 <br><b>Aishan Liu</b>, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
 <br><a href="https://aaai.org/Conferences/AAAI-19/"><i>AAAI Conference on Artificial Intelligence (AAAI’19)</i></a>, Honolulu, Hawaii, USA, 2019.
