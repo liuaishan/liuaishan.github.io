@@ -112,24 +112,17 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 ## Education
 ---------------
-<ul>
-<li><p>Sep. 2017 - Present</p>
-<ul>
-<li>Ph.D. student in Computer Science, School of Computer Science and Engineering, Beihang University</li>
-<li>Advisor: Profs. <a href="http://sites.nlsde.buaa.edu.cn/~liwei/">Wei Li</a> and co-advised by Profs. <a href="http://sites.nlsde.buaa.edu.cn/~xlliu/">Xianglong Liu</a> </li>
-</ul>
-</li>
-<li><p>Sep. 2013 - Jan. 2016</p>
-<ul>
-<li>Master student in Computer Science, School of Computer Science and Engineering, Beihang University</li>
-<li>Advisor: Profs. <a href="http://sites.nlsde.buaa.edu.cn/~liwei/">Wei Li</a> </li>
-</ul>
-</li>
-<li><p>Sep. 2009 - Jun. 2013</p>
-<ul>
-<li>B.Sc in Computer Science, School of Computer Science and Engineering, Beihang University</ul>
-</li>
++ Sep. 2017 - Present
+    + Ph.D. student in Computer Science, School of Computer Science and Engineering, Beihang University
+    + Advisor: Profs. [Wei Li] <http://sites.nlsde.buaa.edu.cn/~liwei/) and co-advised by Profs. [Xianglong Liu] (http://sites.nlsde.buaa.edu.cn/~xlliu/)
+  
++ Sep. 2013 - Jan. 2016
+    + Master student in Computer Science, School of Computer Science and Engineering, Beihang University
+    + Advisor: Profs. [Wei Li] (http://sites.nlsde.buaa.edu.cn/~liwei/)
+  
++ Sep. 2009 - Jun. 2013
+    + B.Sc in Computer Science, School of Computer Science and Engineering, Beihang University
   
 ## Main CoAuthors
 ---------------
-[Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
++ [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
