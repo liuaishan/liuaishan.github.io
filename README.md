@@ -27,69 +27,46 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ## Publications
 ---------------
 
-### Conference Papers
-+ Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.
-<table class="imgtable"><tbody><tr><td>
-<img src="SNS.png" alt="AAAI’20" width="280px" height="125px"></td>
-<td align="left"><ul>
-<br>Chongzhi Zhang*, <b>Aishan Liu*</b>, Xianglong Liu and Yitao Xu. 
-<br>(* means equal contribution)
-<br>Under review.
-<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
-</ul>
-</td></tr></tbody></table>
++ **Spatiotemporal Attacks for Embodied Agents**
+  <br>**Aishan Liu**, Tairan Huang, Xianglong Liu, Yitao Xu, Yuqing Ma, Xinyun Chen, Stephen Maybank, Dacheng Tao
+  <br>European Conference on Computer Vision (**ECCV**), 2020.
+  <br>\[[pdf]("https://arxiv.org/pdf/2005.09161.pdf")\]
+  
++ **Bias-based Universal Adversarial Patch Attack for Automatic Check-out**
+  <br>**Aishan Liu**, Jiakai Wang, Xianglong Liu, Bowen Cao, Chongzhi Zhang, Hang Yu
+  <br>European Conference on Computer Vision (**ECCV**), 2020.
+  <br>\[[pdf]("https://arxiv.org/pdf/2005.09257.pdf")\]
 
-+ Towards Noise-Robust Neural Networks via Progressive Adversarial Training.
-<table class="imgtable"><tbody><tr><td>
-<img src="PDA.JPG" alt="AAAI’20" width="280px" height="125px"></td>
-<td align="left"><ul>
-<br>Hang Yu*, <b>Aishan Liu*</b>, Xianglong Liu and Jichen Yang. 
-<br>(* means equal contribution)
-<br>Under review.
-<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
-</ul>
-</td></tr></tbody></table>
++ **Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration**
+  <br>Yuqing Ma, Shihao Bai, Wei Liu, Qingyu Zhang, **Aishan Liu**, Xianglong Liu
+  <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
+  <br>\[[pdf]("")\]
+  
++ **Transductive Relation-Propagation Network for Few-shot Learning**
+  <br>Yuqing Ma, Shihao Bai, Shan An, Wei Liu, **Aishan Liu**, Xianglong Liu
+  <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
+  <br>\[[pdf]("")\]
 
-+ Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.
-<table class="imgtable"><tbody><tr><td>
-<img src="ijcai19.JPG" alt="IJCAI’19" width="300px" height="125px"></td>
-<td align="left"><ul>
-<br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and <b> Aishan Liu </b>. 
-<br><a href="http://ijcai19.org/"><i>International Joint Conference on Artificial Intelligence (IJCAI’19)</i></a>, Macao, China, 2019.
-<br><tt><a href="./files/papers/ijcai19.pdf">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
-</ul>
-</td></tr></tbody></table>
++ **Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation**
+  <br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He, **Aishan Liu**.
+  <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
+  <br>\[[pdf]("./files/papers/ijcai19.pdf")\]
 
-+ An Advancing CTC-Attention Model for Scene Text Recognition.
-<table class="imgtable"><tbody><tr><td>
-<img src="STR.JPG" alt="ACMMM’19" width="260px" height="125px">&nbsp;</td>
-<td align="left"><ul>
-<br>Jiaxin Fan, Xianglong Liu, Yanlu Wei and <b> Aishan Liu </b>. 
-<br>Under review.
-<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
-</ul>
-</td></tr></tbody></table>
++ **Perceptual Sensitive GAN for Generating Adversarial Patches**
+  <br>**Aishan Liu**, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
+  <br>AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
+  <br>\[[pdf]("./files/papers/psgan_aaai2019.pdf")\]  \[[bib]("./files/papers/psgan_aaai2019.bib")\]
 
-+ Training Robust Deep Neural Networks via Adversarial Noise Propagation.
-<table class="imgtable"><tbody><tr><td>
-<img src="ANP.JPG" alt="AAAI’20" width="280px" height="125px">&nbsp;</td>
-<td align="left"><ul>
-<br><b>Aishan Liu</b>, Xianglong Liu, Chongzhi Zhang, Hang Yu, Qiang Liu and Junfei He.
-<br>Under review.
-<br><tt><a href="#">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="#">[code]</a></tt> <tt><a href="#">[bibtex]</a></tt>
-</ul>
-</td></tr></tbody></table>
-
-+ Perceptual Sensitive GAN for Generating Adversarial Patches.
-<table class="imgtable"><tbody><tr><td>
-<img src="aaai19.JPG" alt="AAAI’19" width="300px" height="135px">&nbsp;</td>
-<td align="left"><ul>
-<br><b>Aishan Liu</b>, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
-<br><a href="https://aaai.org/Conferences/AAAI-19/"><i>AAAI Conference on Artificial Intelligence (AAAI’19)</i></a>, Honolulu, Hawaii, USA, 2019.
-<br><tt><a href="./files/papers/psgan_aaai2019.pdf">[pdf]</a></tt> <tt><a href="#">[poster]</a></tt> <tt><a href="./files/papers/psgan_aaai2019.bib">[bibtex]</a></tt>
-</ul>
-</td></tr></tbody></table>
-
++ **人工智能安全与评测**
+  <br>**刘艾杉**, 王嘉凯, 刘祥龙
+  <br>人工智能 (AI-View), 2020.
+  <br>\[[pdf]("")\] 
+  
+ + **人工智能机器学习模型及系统的质量要素和测试方法**
+  <br>王嘉凯, **刘艾杉**, 刘祥龙..
+  <br>信息技术与标准化, 2020, 1(3).
+  <br>\[[pdf]("")\]
+  
 ## Main Awards & Honors
 ---------------
 
@@ -105,9 +82,11 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ---------------
 ### Conference Reviewer / Program Committee Member
 + IJCAI 2019
-+ ACM MM 2019
++ ACM MM 2019, 2020
 
 ### Journal Reviewer
++ IEEE Transcation on Image Processing
++ IEEE Transaction on Neural Networks Learning Systems
 + Pattern Recognition
 
 ## Education
