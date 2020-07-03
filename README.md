@@ -53,7 +53,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
   <br>\[[pdf]("./files/papers/ijcai19.pdf")\]
 
 + **Perceptual Sensitive GAN for Generating Adversarial Patches**
-  <br>**Aishan Liu**, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
+  <br>**Aishan Liu**, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao
   <br>AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
   <br>\[[pdf]("./files/papers/psgan_aaai2019.pdf")\]  \[[bib]("./files/papers/psgan_aaai2019.bib")\]
 
@@ -63,7 +63,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
   <br>\[[pdf]("")\] 
   
  + **人工智能机器学习模型及系统的质量要素和测试方法**
-  <br>王嘉凯, **刘艾杉**, 刘祥龙..
+  <br>王嘉凯, **刘艾杉**, 刘祥龙
   <br>信息技术与标准化, 2020, 1(3).
   <br>\[[pdf]("")\]
   
