@@ -16,15 +16,13 @@ I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Be
 
 ## Updates
 ---------------
-+ Mar, 2019: One paper accepted for [IJCAI 2019](http://ijcai19.org/)
-+ Nov, 2018: One paper accepted for [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
++ July, 2020: Two papers accepted for [ECCV 2020](https://eccv2020.eu/)
++ April, 2020: Two papers accepted for [IJCAI 2020](https://www.ijcai20.org/)
 
 ## Reseach Interests
 ---------------
 My research interests include some sub-fields of ***Computer Vision*** and ***Deep Learning***:
 + **Robust Deep Neural Networks**: Adversarial Example, Model Robustness and Stability, Adversarial Training
-+ **Interpretable Deep Learning**: Model Behavior against Noise, Neuron Representation, Feature Visualization
-+ **Vision and Language**: Embodied Agent
 
 ## Publications
 ---------------
