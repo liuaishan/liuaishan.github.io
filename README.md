@@ -67,6 +67,11 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
   <br>信息技术与标准化, 2020, 1(3).
   <br>\[[pdf]("")\]
   
+## Talks
+---------------
++ July, 2020: **Adversarial Machine Learning in Physical World**, JD
+
+
 ## Main Awards & Honors
 ---------------
 
