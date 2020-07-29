@@ -69,6 +69,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
   
 ## Talks
 ---------------
++ Aug, 2020: **Bias-based Universal Adversarial Patch Attack for Automatic Check-out**, Zhidx(智东西)
 + July, 2020: **Adversarial Machine Learning in Physical World**, JD
 
 
