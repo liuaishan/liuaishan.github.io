@@ -27,6 +27,11 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ## Publications
 ---------------
 
++ **Understanding Adversarial Robustness via Critical Attacking Route**
+  <br>Tianlin Li\*, **Aishan Liu\***, Xianglong Liu, Yitao Xu, Chongzhi Zhang, Xiaofei Xie (\* indicates equal contributions)
+  <br>Information Sciences, 2020.
+  <br>\[[pdf]("")\] \[[code]("")\] 
+  
 + **Spatiotemporal Attacks for Embodied Agents**
   <br>**Aishan Liu**, Tairan Huang, Xianglong Liu, Yitao Xu, Yuqing Ma, Xinyun Chen, Stephen Maybank, Dacheng Tao
   <br>European Conference on Computer Vision (**ECCV**), 2020.
