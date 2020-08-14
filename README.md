@@ -32,12 +32,12 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 + **Spatiotemporal Attacks for Embodied Agents**
   <br>**Aishan Liu**, Tairan Huang, Xianglong Liu, Yitao Xu, Yuqing Ma, Xinyun Chen, Stephen Maybank, Dacheng Tao
   <br>European Conference on Computer Vision (**ECCV**), 2020.
-  <br>\[[pdf](https://arxiv.org/pdf/2005.09161.pdf)\] \[[code](https://github.com/liuaishan/SpatiotemporalAttack)\] 
+  <br>\[[pdf](https://arxiv.org/pdf/2005.09161.pdf)\] \[[code](https://github.com/liuaishan/SpatiotemporalAttack)\] \[[media](https://www.qbitai.com/2020/07/16562.html)\]
   
 + **Bias-based Universal Adversarial Patch Attack for Automatic Check-out**
   <br>**Aishan Liu**, Jiakai Wang, Xianglong Liu, Bowen Cao, Chongzhi Zhang, Hang Yu
   <br>European Conference on Computer Vision (**ECCV**), 2020.
-  <br>\[[pdf](https://arxiv.org/pdf/2005.09257.pdf)\] \[[code](https://github.com/liuaishan/ModelBiasedAttack)\] 
+  <br>\[[pdf](https://arxiv.org/pdf/2005.09257.pdf)\] \[[code](https://github.com/liuaishan/ModelBiasedAttack)\] \[[media](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652073635&idx=5&sn=b1acd091996cacb9e74053c4208b793c&chksm=f1201a52c6579344ae75ccb2ee3042ed3eddbb6bd988000c7b1ba8c274f1aceaec7ea1300d1d&mpshare=1&scene=1&srcid=07082kvhcWURQF4VRcIx8uU9&sharer_sharetime=1596855924325&sharer_shareid=da9c9379a79901c18dc93793609d62fa&key=4defdd0e8978fadbc4f7d3467b572eb060d5482035de4befee54b935c6aabbcaafa3ed60343840f82abb27fbcc57798b93e6f215c44f11a37e87141722c58b1167ffeba220d7150c5c8ee9333d06f513&ascene=1&uin=MTQzMTA0NDAw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AfGxCG3P9erzoZeJcwLMjbg%3D&pass_ticket=qME0ljezjearOlDwgFgo%2F6ZH0VZ%2B7CLScg%2FNCc5rqMk%3D)\]
 
 + **Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration**
   <br>Yuqing Ma, Shihao Bai, Wei Liu, Qingyu Zhang, **Aishan Liu**, Xianglong Liu
@@ -57,7 +57,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 + **Perceptual Sensitive GAN for Generating Adversarial Patches**
   <br>**Aishan Liu**, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao
   <br>AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
-  <br>\[[pdf]("./files/papers/psgan_aaai2019.pdf")\]  \[[bib]("./files/papers/psgan_aaai2019.bib")\]
+  <br>\[[pdf]("./files/papers/psgan_aaai2019.pdf")\]  \[[bib]("./files/papers/psgan_aaai2019.bib")\] \[[media](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652044274&idx=3&sn=5e2570c25133c03e30930fdc9b04f2f8&chksm=f1218f03c65606157a07db05cad07264a38171038a8de33b667f21af001c76d3baaa501a7506&mpshare=1&scene=1&srcid=08085db4ycxZdHGWEPBNfGv7&sharer_sharetime=1596855953802&sharer_shareid=da9c9379a79901c18dc93793609d62fa&key=4bdaf1520bf406e77cac6eeb1e04025fad0a6dfcc38554ec2ae8223439dee1b518b3e5e70aa6d4335a271be601450da62f8d4466fe85fc3717b9650521117d32b52c3d3727bc25459b0c6e722caad691&ascene=1&uin=MTQzMTA0NDAw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ARP19W6ltvF%2B%2B%2BBJE5uc728%3D&pass_ticket=qME0ljezjearOlDwgFgo%2F6ZH0VZ%2B7CLScg%2FNCc5rqMk%3D)\]
 
 ### ***Journal Papers***
 
