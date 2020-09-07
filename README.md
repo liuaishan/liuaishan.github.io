@@ -1,6 +1,6 @@
 ## Brief Bio
 -----------
-***3rd year Ph.D. Candidate***
+***4th year Ph.D. Candidate***
 
 [State Key Laboratory of Software Development Environment](http://nlsde.buaa.edu.cn)
 
@@ -9,6 +9,8 @@ School of Computer Science and Engineering, Beihang University, China
 Email: liuaishan AT buaa DOT edu DOT cn
 
 Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
+
+You can also find my homepage [here](http://sites.nlsde.buaa.edu.cn/~liuaishan/).
 
 ## About Me
 ---------------
@@ -42,12 +44,12 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 + **Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration**
   <br>Yuqing Ma, Shihao Bai, Wei Liu, Qingyu Zhang, **Aishan Liu**, Xianglong Liu
   <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
-  <br>\[[pdf]("")\]
+  <br>\[[pdf](https://www.ijcai.org/Proceedings/2020/0113.pdf)\]
   
 + **Transductive Relation-Propagation Network for Few-shot Learning**
   <br>Yuqing Ma, Shihao Bai, Shan An, Wei Liu, **Aishan Liu**, Xianglong Liu
   <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
-  <br>\[[pdf]("")\]
+  <br>\[[pdf](https://www.ijcai.org/Proceedings/2020/0112.pdf)\]
 
 + **Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation**
   <br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He, **Aishan Liu**.
@@ -64,7 +66,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 + **Understanding Adversarial Robustness via Critical Attacking Route**
   <br>Tianlin Li\*, **Aishan Liu\***, Xianglong Liu, Yitao Xu, Chongzhi Zhang, Xiaofei Xie (\* indicates equal contributions)
   <br>Information Sciences, 2020.
-  <br>\[[pdf]("")\] \[[code]("")\] 
+  <br>\[[pdf](https://doi.org/10.1016/j.ins.2020.08.043)\] \[[code]("")\] 
   
 + **人工智能安全与评测**
   <br>**刘艾杉**, 王嘉凯, 刘祥龙
@@ -74,11 +76,11 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
  + **人工智能机器学习模型及系统的质量要素和测试方法**
   <br>王嘉凯, **刘艾杉**, 刘祥龙
   <br>信息技术与标准化, 2020, 1(3).
-  <br>\[[pdf]("")\]
+  <br>\[[pdf](http://www.cesi.ac.cn/202007/6566.html)\]
   
 ## Talks
 ---------------
-+ Aug, 2020: **Bias-based Universal Adversarial Patch Attack for Automatic Check-out**, Zhidx(智东西)
++ Aug, 2020: **自动结算场景下商品识别系统的安全性测试 (AI Safety in Automatic Check-out Scenario)**, Zhidx(智东西公开课)
 + July, 2020: **Adversarial Machine Learning in Physical World**, JD
 
 ## Media Coverage
@@ -96,18 +98,18 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 + Guanghua Scholarship, Beihang University, 2015.12.
 + Outstanding Graduate Award, Beijing, 2013.06.
 + CCF National Outstanding Undergraduate, China, 2012.10. (Nationwide 100)
-+ Google Excellence Scholarship, Google, 2012.06.
++ Google Excellence Scholarship, Google, 2012.06. (Nationwide 100)
 
 ## Professional Activities
 ---------------
-### Conference Reviewer / Program Committee Member
+### Conference / Journal Reviewer / Program Committee Member
 + IJCAI 2019
 + ACM MM 2019, 2020
-
-### Journal Reviewer
++ AAAI 2021
 + IEEE Transcation on Image Processing
 + IEEE Transaction on Neural Networks Learning Systems
-+ Pattern Recognition
++ IEEE Transactions on Information Forensics & Security
++ ...
 
 ## Education
 ---------------
