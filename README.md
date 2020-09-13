@@ -45,11 +45,11 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
   <br>Yuqing Ma, Shihao Bai, Wei Liu, Qingyu Zhang, **Aishan Liu**, Xianglong Liu
   <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
   <br>\[[pdf](https://www.ijcai.org/Proceedings/2020/0113.pdf)\]
-  
+
 + **Transductive Relation-Propagation Network for Few-shot Learning**
   <br>Yuqing Ma, Shihao Bai, Shan An, Wei Liu, **Aishan Liu**, Xianglong Liu
   <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
-  <br>\[[pdf](https://www.ijcai.org/Proceedings/2020/0112.pdf)\]
+  <br>\[[pdf](https://www.ijcai.org/Proceedings/2020/0112.pdf)\] \[[code](https://github.com/vickyFox/TRPN)\]
 
 + **Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation**
   <br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He, **Aishan Liu**.
