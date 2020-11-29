@@ -54,12 +54,12 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 + **Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation**
   <br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He, **Aishan Liu**.
   <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
-  <br>\[[pdf]("./files/papers/ijcai19.pdf")\]
+  <br>\[[pdf](https://www.ijcai.org/Proceedings/2019/433)\]
 
 + **Perceptual Sensitive GAN for Generating Adversarial Patches**
   <br>**Aishan Liu**, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao
   <br>AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
-  <br>\[[pdf]("./files/papers/psgan_aaai2019.pdf")\]  \[[bib]("./files/papers/psgan_aaai2019.bib")\] \[[media](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652044274&idx=3&sn=5e2570c25133c03e30930fdc9b04f2f8&chksm=f1218f03c65606157a07db05cad07264a38171038a8de33b667f21af001c76d3baaa501a7506&mpshare=1&scene=1&srcid=08085db4ycxZdHGWEPBNfGv7&sharer_sharetime=1596855953802&sharer_shareid=da9c9379a79901c18dc93793609d62fa&key=4bdaf1520bf406e77cac6eeb1e04025fad0a6dfcc38554ec2ae8223439dee1b518b3e5e70aa6d4335a271be601450da62f8d4466fe85fc3717b9650521117d32b52c3d3727bc25459b0c6e722caad691&ascene=1&uin=MTQzMTA0NDAw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ARP19W6ltvF%2B%2B%2BBJE5uc728%3D&pass_ticket=qME0ljezjearOlDwgFgo%2F6ZH0VZ%2B7CLScg%2FNCc5rqMk%3D)\]
+  <br>\[[pdf](https://ojs.aaai.org//index.php/AAAI/article/view/3893)\]  \[[bib]("./files/papers/psgan_aaai2019.bib")\] \[[media](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652044274&idx=3&sn=5e2570c25133c03e30930fdc9b04f2f8&chksm=f1218f03c65606157a07db05cad07264a38171038a8de33b667f21af001c76d3baaa501a7506&mpshare=1&scene=1&srcid=08085db4ycxZdHGWEPBNfGv7&sharer_sharetime=1596855953802&sharer_shareid=da9c9379a79901c18dc93793609d62fa&key=4bdaf1520bf406e77cac6eeb1e04025fad0a6dfcc38554ec2ae8223439dee1b518b3e5e70aa6d4335a271be601450da62f8d4466fe85fc3717b9650521117d32b52c3d3727bc25459b0c6e722caad691&ascene=1&uin=MTQzMTA0NDAw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ARP19W6ltvF%2B%2B%2BBJE5uc728%3D&pass_ticket=qME0ljezjearOlDwgFgo%2F6ZH0VZ%2B7CLScg%2FNCc5rqMk%3D)\]
 
 ### ***Journal Papers***
 
@@ -85,8 +85,9 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
   
 ## Talks
 ---------------
-+ Aug, 2020: **自动结算场景下商品识别系统的安全性测试 (AI Safety in Automatic Check-out Scenario)**, Zhidx(智东西公开课)
-+ July, 2020: **Adversarial Machine Learning in Physical World**, JD
++ Nov, 2020: **Adversarial Attacks for Embodiment**. CSAI, Tsinghua University
++ Aug, 2020: **自动结算场景下商品识别系统的安全性测试 (AI Safety in Automatic Check-out Scenario)**. Zhidx(智东西公开课)
++ July, 2020: **Adversarial Machine Learning in Physical World**. JD
 
 ## Media Coverage
 ---------------
@@ -132,3 +133,4 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ## Main Co-authors
 ---------------
 + [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
++ [Yuqing Ma](http://sites.nlsde.buaa.edu.cn/~mayuqing/)
