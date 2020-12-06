@@ -18,6 +18,7 @@ I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Be
 
 ## Updates
 ---------------
++ Dec, 2020: Our open-source platform 重明 has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project)
 + Nov, 2020: One paper accepted for IEEE TIP
 + July, 2020: Two papers accepted for [ECCV 2020](https://eccv2020.eu/)
 
@@ -65,7 +66,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 + **Interpreting and Improving Adversarial Robustness of Deep Neural Networks with Neuron Sensitivity**
   <br>Chongzhi Zhang\*, **Aishan Liu\***, Xianglong Liu, Yitao Xu, Hang Yu, Yuqing Ma, Tianlin Li (\* indicates equal contributions)
-  <br>IEEE Transactions on Image Processing (TIP), 2020.
+  <br>IEEE Transactions on Image Processing (**TIP**), 2020.
   <br>\[[pdf](https://arxiv.org/pdf/1909.06978.pdf)\] \[[code]("")\] 
   
 + **Understanding Adversarial Robustness via Critical Attacking Route**
@@ -83,6 +84,11 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
   <br>信息技术与标准化, 2020, 1(3).
   <br>\[[pdf](http://www.cesi.ac.cn/202007/6566.html)\]
   
+## Highlight Projects
+---------------
++ **重明 (AISafety)**
+  <br> 重明 is an open-source platform to evaluate model robustness and safety towards noises (e.g., adversarial examples, corruptions, etc.). The name is taken from the Chinese myth 重明鸟 , which has strong power, could fight against beasts and avoid disasters. We hope our platform could improve the robustness of deep learning systems and help them to avoid safety-related problems. 重明 has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project). The project can be found [here](https://aisafety.readthedocs.io/).
+
 ## Talks
 ---------------
 + Nov, 2020: **Adversarial Attacks for Embodiment**. CSAI, Tsinghua University
