@@ -87,10 +87,12 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ## Highlight Projects
 ---------------
 + **重明 (AISafety)**
-  <br> 重明 is an open-source platform to evaluate model robustness and safety towards noises (e.g., adversarial examples, corruptions, etc.). The name is taken from the Chinese myth 重明鸟 , which has strong power, could fight against beasts and avoid disasters. We hope our platform could improve the robustness of deep learning systems and help them to avoid safety-related problems. 重明 has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project). The project can be found [here](https://aisafety.readthedocs.io/).
+  <br> 重明 is an open-source platform to evaluate model robustness and safety towards noises (e.g., adversarial examples, corruptions, etc.). The name is taken from the Chinese myth 重明鸟 , which has strong power, could fight against beasts and avoid disasters. We hope our platform could improve the robustness of deep learning systems and help them to avoid safety-related problems. 重明 has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project). 
+  <br>\[[Project](https://aisafety.readthedocs.io/)\] \[[Media](http://www.techweb.com.cn/2020-12-02/2814466.shtml)\] 
 
-## Talks
+## Selected Talks
 ---------------
++ Dec, 2020: **对抗机器学习的鲁棒性研究与探索 (Adversarial Machine Learning)**. Zhidx(智东西公开课)
 + Nov, 2020: **Adversarial Attacks for Embodiment**. CSAI, Tsinghua University
 + Aug, 2020: **自动结算场景下商品识别系统的安全性测试 (AI Safety in Automatic Check-out Scenario)**. Zhidx(智东西公开课)
 + July, 2020: **Adversarial Machine Learning in Physical World**. JD
