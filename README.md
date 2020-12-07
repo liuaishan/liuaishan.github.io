@@ -18,7 +18,7 @@ I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Be
 
 ## Updates
 ---------------
-+ Dec, 2020: Our open-source platform 重明 has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project)
++ Dec, 2020: Our open-source platform 重明 (sounds like /*ch'ung ming*/) has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project)
 + Nov, 2020: One paper accepted for IEEE TIP
 + July, 2020: Two papers accepted for [ECCV 2020](https://eccv2020.eu/)
 
@@ -87,7 +87,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ## Highlight Projects
 ---------------
 + **重明 (AISafety)**
-  <br> 重明 is an open-source platform to evaluate model robustness and safety towards noises (e.g., adversarial examples, corruptions, etc.). The name is taken from the Chinese myth 重明鸟 , which has strong power, could fight against beasts and avoid disasters. We hope our platform could improve the robustness of deep learning systems and help them to avoid safety-related problems. 重明 has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project). 
+  <br> 重明 (sounds like /*ch'ung ming*/) is an open-source platform to evaluate model robustness and safety towards noises (e.g., adversarial examples, corruptions, etc.). The name is taken from the Chinese myth 重明鸟 , which has strong power, could fight against beasts and avoid disasters. We hope our platform could improve the robustness of deep learning systems and help them to avoid safety-related problems. 重明 has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project). 
   <br>\[[Project](https://aisafety.readthedocs.io/)\] \[[Media](http://www.techweb.com.cn/2020-12-02/2814466.shtml)\] 
 
 ## Selected Talks
