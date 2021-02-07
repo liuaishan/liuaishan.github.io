@@ -18,6 +18,7 @@ I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Be
 
 ## Updates
 ---------------
++ Jan, 2021: I am serving as a Senior Program Committee for IJCAI 2021
 + Dec, 2020: Our open-source platform 重明 (sounds like /*ch'ung ming*/) has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project)
 + Nov, 2020: One paper accepted for IEEE TIP
 + July, 2020: Two papers accepted for [ECCV 2020](https://eccv2020.eu/)
