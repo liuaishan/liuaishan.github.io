@@ -18,6 +18,7 @@ I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Be
 
 ## Updates
 ---------------
++ Mar, 2021: One paper accepted for [CVPR 2021](http://cvpr2021.thecvf.com/)
 + Jan, 2021: I am serving as a Senior Program Committee for IJCAI 2021
 + Dec, 2020: Our open-source platform 重明 (sounds like /*ch'ung ming*/) has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project)
 + Nov, 2020: One paper accepted for IEEE TIP
@@ -32,6 +33,11 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ---------------
 
 ### ***Conference Papers***
+  
++ **Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World**
+  <br>Jiakai Wang, **Aishan Liu**, Zixin Yin, Shunchang Liu, Shiyu Tang, Xianglong Liu
+  <br>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
+  <br>\[[pdf]()\] \[[code]()\] \[[media]()\]
   
 + **Spatiotemporal Attacks for Embodied Agents**
   <br>**Aishan Liu**, Tairan Huang, Xianglong Liu, Yitao Xu, Yuqing Ma, Xinyun Chen, Stephen Maybank, Dacheng Tao
