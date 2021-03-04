@@ -18,7 +18,7 @@ I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Be
 
 ## Updates
 ---------------
-+ Mar, 2021: One paper accepted for [CVPR 2021](http://cvpr2021.thecvf.com/)
++ Mar, 2021: One paper accepted for [CVPR 2021](http://cvpr2021.thecvf.com/) (Oral)
 + Jan, 2021: I am serving as a Senior Program Committee for IJCAI 2021
 + Dec, 2020: Our open-source platform 重明 (sounds like /*ch'ung ming*/) has been awarded the [首届OpenI启智社区优秀开源项目](http://www.techweb.com.cn/2020-12-02/2814466.shtml) (First OpenI Excellent Open Source Project)
 + Nov, 2020: One paper accepted for IEEE TIP
@@ -34,7 +34,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 
 ### ***Conference Papers***
   
-+ **Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World**
++ **Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World** (Oral)
   <br>Jiakai Wang, **Aishan Liu**, Zixin Yin, Shunchang Liu, Shiyu Tang, Xianglong Liu
   <br>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
   <br>\[[pdf]()\] \[[code]()\] \[[media]()\]
@@ -64,7 +64,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
   <br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
   <br>\[[pdf](https://www.ijcai.org/Proceedings/2019/433)\]
 
-+ **Perceptual Sensitive GAN for Generating Adversarial Patches**
++ **Perceptual Sensitive GAN for Generating Adversarial Patches** (Spotlight)
   <br>**Aishan Liu**, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao
   <br>AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
   <br>\[[pdf](https://ojs.aaai.org//index.php/AAAI/article/view/3893)\]  \[[bib]("./files/papers/psgan_aaai2019.bib")\] \[[media](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652044274&idx=3&sn=5e2570c25133c03e30930fdc9b04f2f8&chksm=f1218f03c65606157a07db05cad07264a38171038a8de33b667f21af001c76d3baaa501a7506&mpshare=1&scene=1&srcid=08085db4ycxZdHGWEPBNfGv7&sharer_sharetime=1596855953802&sharer_shareid=da9c9379a79901c18dc93793609d62fa&key=4bdaf1520bf406e77cac6eeb1e04025fad0a6dfcc38554ec2ae8223439dee1b518b3e5e70aa6d4335a271be601450da62f8d4466fe85fc3717b9650521117d32b52c3d3727bc25459b0c6e722caad691&ascene=1&uin=MTQzMTA0NDAw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ARP19W6ltvF%2B%2B%2BBJE5uc728%3D&pass_ticket=qME0ljezjearOlDwgFgo%2F6ZH0VZ%2B7CLScg%2FNCc5rqMk%3D)\]
